@@ -4,7 +4,7 @@
 - 👨🏽‍💻 FullStack Developer
 
 - 🔭 I’m currently working on [Capgemini Brasil S.A](https://www.capgemini.com/)</div>
-- 📫 How to reach me: hermanyoh.solutions@gmail.com 
+- 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/hermanyo-h-775552144/) 
 
 
 <div align="center">
