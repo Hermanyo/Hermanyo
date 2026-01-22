@@ -2,8 +2,6 @@
 ### Hi there! I'm Hermanyo H.
 
 - 👨🏽‍💻 FullStack Developer
-
-- 🔭 I’m currently working on [Capgemini Brasil S.A](https://www.capgemini.com/)</div>
 - 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/hermanyo-h-775552144/) 
 
 
